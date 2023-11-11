@@ -1,0 +1,206 @@
+
+MUD
+telnet rlmud.org 5001
+
+usuario:password
+Stalmarr:cocacola
+Deolor Dealor
+Castellvilarenc
+(otro nombre que está aputado en Heaven\d\juegos\mud\reinos de leyenda)
+
+Stalmarr el huerfano
+         el pequeño ratero
+         el asaltador de caminos
+
+comandos dentro del mud:
+charset
+term terminal      tipo de terminal
+(estos comandos ayudarán a establecer el código de caracteres para poder ver los acentos correctamente)
+
+:::::::::::::::::
+Dentro del juego:
+:::::::::::::::::
+
+iniciando:
+polvazo <jugador> sube mucha experiencia
+avanzar           avanza muchos niveles
+
+Interfaz y social:
+------------------
+ayuda normas
+      esencial
+
+informar       activa o desactiva información de eventos (login, karma, etc)
+consentir      activa o desactiva el nivel de escritura de eventos del mud
+consentir detallado (descripciones largas)
+
+novato (msg)   Envia mensaje al canal novato
+     novato .  Muestra gente conectada al canal novato
+     novato on Activa el canal novato
+     novato !  Muestra historico de mensajes
+bando (msg)    Envia mensaje al canal de tu bando
+
+quien          muestra información de jugadores conectados
+     quien bueno
+     quien malo
+     quien mercenario
+
+polvazo nick   Te da muchos puntos de experiencia (se ejecuta una unica vez por partida (novato))
+
+decir
+t tell telepatia
+idioma
+
+emociones:
+ayuda emociones
+asentir        Asentir con la cabeza en la sala
+asentir (nick) Asientes a la persona esté donde esté.
+en canales:
+novato $asentir (nick)
+novato @ se ruboriza      ( pone el texto integro, @ es el propio personaje)
+
+emociones especiales
+al hacer la misión de Anduar "el interprete" podemos realizar emociones personalizadas.
+emote <texto>
+: <texto>
+
+Información:
+------------
+f ficha
+retirar        borra ficha de personaje
+score          Información de personaje
+puntos         (idem)
+i inventario     Información de inventario
+estatus        Indica el estatus en las ciudades intervenidas
+estatus (personaje) Indica las consecuencias de matar al personaje
+considerar (personaje) Indica las posibilidades de matar al personaje
+matar (personaje) Iniciar batalla con el personaje
+carga             Indica la carga que lleva el personaje
+
+Existe una característica que la puede rellenar el jugador. Se trata del registro.
+ayuda descripción
+registros            Indica el estado de los últimos registros
+registros premiados
+registros ver jugador
+
+
+comandos tipicos:
+-----------------
+mirar
+ojear
+leer
+abrir
+coger (objeto)
+ponerse (objeto)
+conversar
+conversar temas
+
+Ataque:
+-------
+esconderse
+apuñalar <objetivo>
+norte
+sigilar sur
+apuñalar <objetivo>
+Mochila:
+--------
+mirar mochilas
+poner <objeto> en mochila
+coger <objeto> de mochila
+
+Alias:
+------
+alias sam coger monedas
+alias sad coger todo de cuerpos
+alias sac coger todo
+alias ent enterrar;ojear;
+
+tutores:
+--------
+Cuando tienes un tutor, es muy normal que quiera viajar contigo (mochila) para ello te enviará una invitación de agrupación.
+agruparse
+agruparse invitar
+agruparse fulano
+
+Tutor de Stalmarr -> sheerinive (también Togborad, Haryos, )
+
+
+Misiones:
+---------
+los pnj que tienen (!) junto a su nombre, ofrecen misiones.
+
+leer libreta       Las misiones las puedes ver con leer libreta
+terminar misiones  Cuando estés en el sitio donde se te ha asignado la misión
+misiones 
+misiones #         el número del listado de misiones
+
+
+
+Lucha:
+------
+grito de combate, utilizar el comando: matar -g tutextodegritodecombate
+
+Para el ladrón, lo ideal es utilizar los comandos en esta forma:
+esconderse
+(esperar a que se esconda)
+apuñalar objetivo
+(escaparse rápidamente: n s e o ne no se so etc)
+sigilar (sur) en caso de haber escapado a norte
+apuñalar objetivo
+y volver a escapar. Ejecutar sucesivamente.
+
+Aprender otros idiomas:
+buscas un erudito que te pueda enseñar
+si tienes un libro "compendio dendrita" puedes "estudiar compendio" pera ir aprendiendo.
+no se puede estudiar todo a la vez, hay que ir esperando, sin embargo, no aparece como bloqueo.
+(comando "bloqueos" muestra los bloqueos temporales existentes)
+
+
+Fabricación:
+Arpeo: (habilidad necesaria anudar)
+comprar garfio, comprar cuerda, anudar cuerda a garfio
+
+Trampa de flechas: (habilidad necesaria crear, oficio trampero)
+6 flechas de madera 2 cuerdas
+ir a taller y crear trampa de flechas
+
+
+Monturas:
+habilidad llamada (llama a una montura)
+llamada [oso|lobo|halcon]
+montar lobo
+
+ordenar oso: ejecutar aguantar
+ordenar oso: protegerme (según informacion elyra)
+ordenar oso: marcharse (devolvera la XP obtenida)
+
+En el caso de otras (muertos vivientes, personajes 8larsen etc)
+ordenar informar
+ordenar noseguir
+ordenar protegerme
+ordenar ejecutar habilidad sobre objetivo
+
+
+Gestas:
+gestas beneficios activos
+ranking gestas
+
+
+Salvaciones:
+Tiradas de salvación:
+comando: salvaciones
+
+
+Embarcaciones
+embarcarse <nombre del barco>
+abandonar barco
+abandonar el barco
+
+
+
+colores de bandos
+bueno       azul celeste
+malo        rojo
+mercenario  amarillo
+renegado    magenta
+anarquico   verde claro

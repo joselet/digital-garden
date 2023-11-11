@@ -1,0 +1,145 @@
+Requisitos: haber terminado "La casa de sus sueños"
+
+En la primera room:
+- Camino de gravilla [e,no] mirar cobertizo  (dará token de exploración)
+mirar casa;rebuscar escombros (recibes engranaje)
+
+Pórtico [|de|,se]
+limpiar ventanas (sintaxis comandos)
+tirar del felpudo (dará token de exploración)
+tocar aldaba (da token)
+
+Vestíbulo: Planta inferior [ar,e,n,-fu-]
+empujar gargola izquierda (da token) (se abre una salida abajo)
+mirar cuadro;mirar ojo (da token)
+mirar dintel;mirar cimientos (da token)
+
+
+- Biblioteca [o] mirar manta;coger engranaje (da token)
+                 mirar firma (da token)
+                 #send sacar cuaderno (si es que tienes un alias de cliente con "sacar")
+                 empuñar libro, leer libro.
+
+1.- Pasión roja
+2.- Frutas salvajes
+3.- Copa del infierno
+4.- Cerveza sangrienta
+5.- Amanecer
+6.- Suspiro de los dioses
+
+girar candado <color> hasta el <número>
+
+
+limpiar pecera;mirar pecera;mirar barcos
+mirar goletas
+Hay 1 de color verde, 3 de color rojo, 2 de color azul y 3 de color amarillo.
+> mirar fragatas
+Hay 3 de color amarillo, 3 de color azul, 3 de color rojo y 1 de color verde.
+> mirar cruceros
+Hay 3 de color rojo, 2 de color azul, 3 de color amarillo y 2 de color verde.
+
+
+mirar candados
+Hay tres candados, de colores amarillo, verde y negro, quizás quieras mirarlos uno por
+uno.
+
+verde: 1 GOLETA, 1 fragata, 2 cruceros
+amarillo: 3 goleta, 3fregata, 3 cruceros
+rojo: 3 goleta, 3 fregata,3 cruceros
+azul: 2 goletas, 3 fragatas, 2 cruceros
+
+
+
+
+Cuando lía te llame para cenar, ir a la cocina, desde el salón hacia el norte.
+
+
+planta baja: cocina:
+mirar tablero
+
+
+
+arriba Vestibulo: planta superior
+sintaxis comandos pone: colocar escalera. Hay que buscar una escalera
+
+arriba: este: Baño: abrir armarito;coger hierbas
+                     apartar cortina (da token)
+
+Arriba Norte: Dormitorio principal. mirar cama;levantar colchon;coger caja (no parece que haga nada)
+        mirar mesillas;abrir cajon (te da un manojo de llaves)
+        mirar balcon (da token)
+
+Arriba oeste: Dormitorio infantil
+
+
+Planta baja (empujar gargola izquierda) Sótano
+
+Planta baja norte: Bodega:
+        mirar armario (da token)
+        mirar botellas
+        buscar coñac
+        buscar ron dorado
+
+Planta baja sudeste: Fresquera
+    picar hielo
+
+
+Desde la cocina, al este hay un gran salon.
+
+Planta baja: Gran Salón:
+mirar mesa
+mirar botellas
+coger licor de naranjas
+
+
+desde el salón al norte hay un jardín trasero.
+Jardín trasero: mirar frutas (da token)
+agitar limonero
+buscar limon
+
+al oeste: Estanque: mirar menta;cortar menta
+    mirar monstruo (da token)
+
+
+Cuando tengas todos los ingredintes ve a la cocina
+dar ron a lia
+dar coñac a lia
+dar licor a lia
+...
+Después agrupa a lia y llevala al dormitorio infantil, arriba al oeste
+
+Al ver algo en el torreón, ve al estanque en la planta baja.
+mirar murete
+mirar mecanismo
+si haces "tirar palanca" se rompe.
+coger la cucharilla de la cocina y "reparar palanca" en el estanque
+
+azul mueve todos los barcos
+amarilla mueve alandaen, anduar, keel
+verde mueve anduar y keel
+roja mueve keel
+
+girar manivela azul hasta que bucanero al n 
+amarilla alandaen ne
+verde anduar so
+roja keel no
+tirar palanca
+
+ahora puedes ir al Oeste
+
+Escucharás un grito, ve a donde dejaste a Lia para descubrir que ya no está en la habitación.
+mirar huellas
+ve al vestibulo despues.
+mirar huellas
+ve al lavabo
+mirar huellas
+apartar cortina
+esperar a escuchar los pasos que se detienen frente al espejo
+mirar espejo (da token) (quiza ya se puede hacer antes? solo si ya has apartado la cortina)
+
+volviendo al guiñitos, puedes conversar con él.
+te pedirá comida, marihuana, una manta de fido.
+La marihuana salió antes (no me acuerdo dónde)
+la manta es del mapache de lia
+la comida de la alacena
+
