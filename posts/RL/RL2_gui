@@ -1,0 +1,40 @@
+consentir mudlet_gui off
+Esto hace que si se actualiza la gui, no pierdas los cambios que has hecho.
+
+
+/*ancho del panel derecho*/
+///////////////////////////
+-- Configuración de la interfaz.
+-- Al modificar los valores, se debería de redibujar la interfaz.
+-- Para ello, todos los elementos de la interfaz usan las funciones
+-- move y resize, en lugar de pasar los valores en el constructor.
+-- Si no se refresca al 100%, reiniciar el cliente.
+	-- Variables Globales.
+WIDTH, HEIGHT = getMainWindowSize()
+ROOT = string.gsub(getMudletHomeDir() .. [[/RLMud_GUI/]], [[\]], "/")
+
+	-- Bordes de la pantalla. Delimitan el tamaño de la consola principal.
+BORDE_IZQUIERDO = 215
+BORDE_DERECHO   = 600
+
+/*Altura de las pestañas de canales*/
+/////////////////////////////////////
+function initCanalesUI()
+	-- Cabecera del panel.
+	canales.header = Geyser.HBox:new({
+		height = 25,
+	}, canales.container)
+
+    -- Pie del panel.
+	canales.footer = Geyser.Label:new({
+		name = "canales.footer",
+		y = 25,
+	}, canales.container)
+
+
+    //barras de estado
+-- Barras de Estado.
+STATUS_X      = WIDTH
+STATUS_Y      = 500
+STATUS_WIDTH  = 200
+STATUS_HEIGHT = 80
