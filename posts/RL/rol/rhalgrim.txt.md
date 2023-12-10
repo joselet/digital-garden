@@ -1,1 +1,0 @@
-en sublime text esta su historia.

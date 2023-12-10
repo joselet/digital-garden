@@ -1,1 +1,0 @@
-cliente original de qbar

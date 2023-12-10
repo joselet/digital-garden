@@ -1,2 +1,0 @@
-primero rezar. Como?
-

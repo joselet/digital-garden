@@ -1,1 +1,0 @@
-- misión (la capa de ilhian) de los ladrones en takome (la da el sastre de takome la misión creo recordar)

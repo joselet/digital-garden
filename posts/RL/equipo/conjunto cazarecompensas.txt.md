@@ -1,1 +1,0 @@
-guante: sastreria de keel

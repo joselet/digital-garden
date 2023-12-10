@@ -1,1 +1,0 @@
-para conseguir este hechizo, tienes que ir a las alcantarillas de anduar y remover escombros hasta encontrar el libro de tharir. A continuaci'ón llevar el lbro a tharir, que se encuentra en el bosque de ucho.

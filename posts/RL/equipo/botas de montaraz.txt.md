@@ -1,1 +1,0 @@
-aplicar shalom en botas (no deja rastro por donde pasas)

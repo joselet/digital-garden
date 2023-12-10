@@ -1,1 +1,0 @@
-las entrega el archivista de zumelzu al acabar la misión Maldito bicho

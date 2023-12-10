@@ -1,1 +1,0 @@
-Matar a khaiden en el pozo del bosque negro en Naggrung

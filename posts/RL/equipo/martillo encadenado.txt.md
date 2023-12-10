@@ -1,1 +1,0 @@
-matando a azadra en bosque impenetrable

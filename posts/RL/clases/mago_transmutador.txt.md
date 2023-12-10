@@ -1,7 +1,0 @@
-Krashar
-
-inversion
-desintegrar
-teleport
-
-

@@ -1,2 +1,0 @@
-No habla con avendrok
-
