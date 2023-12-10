@@ -9,7 +9,7 @@ Fructuoso
 ### Fauna
 Copioso
 ## Recursos
-- Cristal de escarcha
+- [[Cristal de escarcha]]
 - Cobalto
 - Dioxita
 - Cobre
